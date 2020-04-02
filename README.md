@@ -4,7 +4,7 @@ Projeto de aplicação para ongs solicitarem contribuições financeiras para an
 ## BackEnd
 Feito em nodejs;
 Validação feita com o celebrate;
-Consulta dos dados com o Insomnia
+Consulta das rotas com o Insomnia
 e testes feitos com jest.
 
 ## FrontEnd
